@@ -1,0 +1,22 @@
+*{
+    font-size:30px;
+    font-weight: 500;
+}
+h3{
+    color:magenta;
+}
+h4{
+    color: yellow;
+}
+h5{
+    color: cyan;
+}
+p{
+    color: darkcyan;
+}
+.a{
+    color:blue;
+}
+#b{
+    color:orangered
+}
